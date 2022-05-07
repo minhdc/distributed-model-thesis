@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:54:42 2022
+# 
+2298:execve("./e7dc4eeb4ef7e0a2f42675b62065447d",_["./e7dc4eeb4ef7e0a2f42675b6206544"...],_[/*_13_vars_*/]) 2298:n64_brk()
+2298:n64_brk() 2298:n64_brk() 2298:SYS_5242()
+2298:SYS_5242() 2298:n64_ioctl()
+2298:n64_ioctl() 2298:n64_ioctl() 2298:n64_prctl() 2298:n64_close()
+2298:n64_prctl() 2298:n64_gettimeofday()
+2298:n64_gettimeofday() 2298:n64_getpid() 2298:n64_socketcall()
+2298:n64_getpid()
+2298:n64_socketcall() 2298:n64_connect()
+2298:n64_connect() 2298:n64_getsockname()
+2298:n64_getsockname() 2298:n64_open()
+2298:n64_open() 2298:n64_read()
+2298:n64_read() 2298:n64_read() 2298:n64_close()
+2298:n64_close()

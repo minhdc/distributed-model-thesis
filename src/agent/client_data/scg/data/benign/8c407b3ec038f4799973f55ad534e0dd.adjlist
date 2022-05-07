@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:57 2022
+# 
+2317:execve("./8c407b3ec038f4799973f55ad534e0dd",_["./8c407b3ec038f4799973f55ad534e0"...],_[/*_13_vars_*/]) 2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2317:stat("/etc/ld-uClibc.so.cache",_0x7ff7af00)
+2317:stat("/etc/ld-uClibc.so.cache",_0x7ff7af00) 2317:open("/work/ralink/release/src-ra-mt7620/router/openssl/libssl.so.1.0.0",_O_RDONLY)
+2317:open("/work/ralink/release/src-ra-mt7620/router/openssl/libssl.so.1.0.0",_O_RDONLY) 2317:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2317:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2317:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2317:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2317:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2317:write(2,_"",_0)
+2317:write(2,_"",_0) 2317:write(2,_"./8c407b3ec038f4799973f55ad534e0"...,_34)
+2317:write(2,_"./8c407b3ec038f4799973f55ad534e0"...,_34) 2317:write(2,_":_can't_load_library_'",_22)
+2317:write(2,_":_can't_load_library_'",_22) 2317:write(2,_"libssl.so.1.0.0",_15)
+2317:write(2,_"libssl.so.1.0.0",_15) 2317:write(2,_"'\n",_2)
+2317:write(2,_"'\n",_2) 2317:munmap(0x77658000,_4096)
+2317:munmap(0x77658000,_4096) 2317:exit(16)
+2317:exit(16)

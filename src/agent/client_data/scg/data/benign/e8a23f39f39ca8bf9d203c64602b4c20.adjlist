@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:55 2022
+# 
+2329:execve("./e8a23f39f39ca8bf9d203c64602b4c20",_["./e8a23f39f39ca8bf9d203c64602b4c"...],_[/*_13_vars_*/]) 2329:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2329:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2329:stat("/etc/ld-uClibc.so.cache",_0x7fa5f8a0) 2329:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...}) 2329:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\10\0\1\0\0\0p\264\0\0004\0\0\0"...,_4096) 2329:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...}) 2329:set_thread_area(0x77cc5460)
+2329:stat("/etc/ld-uClibc.so.cache",_0x7fa5f8a0) 2329:open("/lib/libc.so.0",_O_RDONLY)
+2329:open("/lib/libc.so.0",_O_RDONLY) 2329:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...})
+2329:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...})
+2329:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\10\0\1\0\0\0p\264\0\0004\0\0\0"...,_4096) 2329:old_mmap(NULL,_524288,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2329:old_mmap(NULL,_524288,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2329:old_mmap(0x77c28000,_431964,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0)
+2329:old_mmap(0x77c28000,_431964,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0) 2329:old_mmap(0x77ca1000,_7824,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x69000)
+2329:old_mmap(0x77ca1000,_7824,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x69000) 2329:old_mmap(0x77ca3000,_19660,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS,_-1,_0)
+2329:old_mmap(0x77ca3000,_19660,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS,_-1,_0) 2329:close(3)
+2329:close(3) 2329:munmap(0x77cbe000,_4096)
+2329:munmap(0x77cbe000,_4096) 2329:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...})
+2329:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...})
+2329:set_thread_area(0x77cc5460) 2329:mprotect(0x77ca1000,_4096,_PROT_READ)
+2329:mprotect(0x77ca1000,_4096,_PROT_READ) 2329:mprotect(0x77cbf000,_4096,_PROT_READ)
+2329:mprotect(0x77cbf000,_4096,_PROT_READ) 2329:ioctl(0,_TIOCNXCL,_0x7fa5f878)
+2329:ioctl(0,_TIOCNXCL,_0x7fa5f878) 2329:ioctl(1,_TIOCNXCL,_0x7fa5f878)
+2329:ioctl(1,_TIOCNXCL,_0x7fa5f878) 2329:write(1,_"Usage:\n__./e8a23f39f39ca8bf9d203"...,_347)
+2329:write(1,_"Usage:\n__./e8a23f39f39ca8bf9d203"...,_347) 2329:exit_group(0)
+2329:exit_group(0)

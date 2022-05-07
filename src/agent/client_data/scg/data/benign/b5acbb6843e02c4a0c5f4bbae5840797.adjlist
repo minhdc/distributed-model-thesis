@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:53 2022
+# 
+2694:execve("./b5acbb6843e02c4a0c5f4bbae5840797",_["./b5acbb6843e02c4a0c5f4bbae58407"...],_[/*_13_vars_*/]) 2694:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2694:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2694:stat("/etc/ld-uClibc.so.cache",_0x7fa46630) 2694:fstat(3,_{st_mode=S_IFREG|0755,_st_size=16261,_...}) 2694:read(3,_"\177ELF\1\2\1\0\0\0\0\0\0\0\0\0\0\3\0\10\0\0\0\1\0\0\n\260\0\0\0004"...,_4096)
+2694:stat("/etc/ld-uClibc.so.cache",_0x7fa46630) 2694:open("/lib/libdl.so.0",_O_RDONLY)
+2694:open("/lib/libdl.so.0",_O_RDONLY) 2694:fstat(3,_{st_mode=S_IFREG|0755,_st_size=16261,_...})
+2694:fstat(3,_{st_mode=S_IFREG|0755,_st_size=16261,_...})
+2694:read(3,_"\177ELF\1\2\1\0\0\0\0\0\0\0\0\0\0\3\0\10\0\0\0\1\0\0\n\260\0\0\0004"...,_4096) 2694:old_mmap(NULL,_81920,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2694:old_mmap(NULL,_81920,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2694:old_mmap(0x77f10000,_10656,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0)
+2694:old_mmap(0x77f10000,_10656,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0) 2694:old_mmap(0x77f22000,_4312,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x2000)
+2694:old_mmap(0x77f22000,_4312,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x2000) 2694:close(3)
+2694:close(3) 2694:munmap(0x77f39000,_4096)
+2694:munmap(0x77f39000,_4096) 2694:open("/lib/libbigballofmud.so",_O_RDONLY) 2694:write(2,_"'\n",_2) 2694:exit(16)
+2694:open("/lib/libbigballofmud.so",_O_RDONLY) 2694:open("/lib/libbigballofmud.so",_O_RDONLY) 2694:open("/usr/lib/libbigballofmud.so",_O_RDONLY)
+2694:open("/usr/lib/libbigballofmud.so",_O_RDONLY) 2694:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2694:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2694:write(2,_"",_0)
+2694:write(2,_"",_0) 2694:write(2,_"./b5acbb6843e02c4a0c5f4bbae58407"...,_34)
+2694:write(2,_"./b5acbb6843e02c4a0c5f4bbae58407"...,_34) 2694:write(2,_":_can't_load_library_'",_22)
+2694:write(2,_":_can't_load_library_'",_22) 2694:write(2,_"libbigballofmud.so",_18)
+2694:write(2,_"libbigballofmud.so",_18) 2694:write(2,_"'\n",_2)
+2694:write(2,_"'\n",_2)
+2694:exit(16)

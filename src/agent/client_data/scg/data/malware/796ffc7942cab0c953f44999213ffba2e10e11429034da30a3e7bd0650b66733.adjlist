@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:51:06 2022
+# 
+2353:execve("./796ffc7942cab0c953f44999213ffba2e10e11429034da30a3e7bd0650b66733",_["./796ffc7942cab0c953f44999213ffb"...],_[/*_13_vars_*/]) 2353:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2353:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2353:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2353:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2353:rt_sigaction(SIGTRAP,_{0x100069d4,_[TRAP],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2353:rt_sigaction(SIGTRAP,_{0x100069d4,_[TRAP],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2353:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2353:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2353:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2353:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2353:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(40472),_sin_addr=inet_addr("192.168.122.104")},_[16])
+2353:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(40472),_sin_addr=inet_addr("192.168.122.104")},_[16]) 2353:close(3)
+2353:close(3) 2353:brk(0)
+2353:brk(0) 2353:brk(0x10735000)
+2353:brk(0x10735000) 2353:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP)
+2353:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP) 2353:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4)
+2353:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4) 2353:fcntl(3,_F_GETFL)
+2353:fcntl(3,_F_GETFL) 2353:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK)
+2353:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK) 2353:bind(3,_{sa_family=AF_INET,_sin_port=htons(31243),_sin_addr=inet_addr("127.0.0.1")},_16)
+2353:bind(3,_{sa_family=AF_INET,_sin_port=htons(31243),_sin_addr=inet_addr("127.0.0.1")},_16) 2353:listen(3,_1)
+2353:listen(3,_1) 2353:time(NULL)
+2353:time(NULL) 2353:getpid()
+2353:getpid() 2353:getppid()
+2353:getppid() 2353:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})
+2353:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})

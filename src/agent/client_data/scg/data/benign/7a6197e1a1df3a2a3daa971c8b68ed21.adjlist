@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:45 2022
+# 
+2315:execve("./7a6197e1a1df3a2a3daa971c8b68ed21",_["./7a6197e1a1df3a2a3daa971c8b68ed"...],_[/*_13_vars_*/]) 2315:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2315:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2315:stat("/etc/ld-uClibc.so.cache",_0x7ffa1cd0)
+2315:stat("/etc/ld-uClibc.so.cache",_0x7ffa1cd0) 2315:open("/lib/libdaemon.so.0",_O_RDONLY)
+2315:open("/lib/libdaemon.so.0",_O_RDONLY) 2315:open("/lib/libdaemon.so.0",_O_RDONLY) 2315:open("/usr/lib/libdaemon.so.0",_O_RDONLY)
+2315:open("/usr/lib/libdaemon.so.0",_O_RDONLY) 2315:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2315:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2315:write(2,_"",_0)
+2315:write(2,_"",_0) 2315:write(2,_"./7a6197e1a1df3a2a3daa971c8b68ed"...,_34)
+2315:write(2,_"./7a6197e1a1df3a2a3daa971c8b68ed"...,_34) 2315:write(2,_":_can't_load_library_'",_22)
+2315:write(2,_":_can't_load_library_'",_22) 2315:write(2,_"libdaemon.so.0",_14)
+2315:write(2,_"libdaemon.so.0",_14) 2315:write(2,_"'\n",_2)
+2315:write(2,_"'\n",_2) 2315:munmap(0x7747a000,_4096)
+2315:munmap(0x7747a000,_4096) 2315:exit(16)
+2315:exit(16)

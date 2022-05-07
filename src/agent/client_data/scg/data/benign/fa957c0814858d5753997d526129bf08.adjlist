@@ -1,0 +1,6 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:49 2022
+# 
+2308:execve("./fa957c0814858d5753997d526129bf08",_["./fa957c0814858d5753997d526129bf"...],_[/*_13_vars_*/]) 2308:ioctl(0,_TIOCNXCL,_0x7f9e91b8)
+2308:ioctl(0,_TIOCNXCL,_0x7f9e91b8) 2308:ioctl(1,_TIOCNXCL,_0x7f9e91b8)
+2308:ioctl(1,_TIOCNXCL,_0x7f9e91b8)

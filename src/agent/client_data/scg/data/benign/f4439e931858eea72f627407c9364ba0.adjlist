@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:47 2022
+# 
+2735:execve("./f4439e931858eea72f627407c9364ba0",_["./f4439e931858eea72f627407c9364b"...],_[/*_13_vars_*/]) 2735:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2735:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2735:stat("/etc/ld-uClibc.so.cache",_0x7f9344d0)
+2735:stat("/etc/ld-uClibc.so.cache",_0x7f9344d0) 2735:open("/etc/lib/libssl.so.1.0.0",_O_RDONLY)
+2735:open("/etc/lib/libssl.so.1.0.0",_O_RDONLY) 2735:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2735:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2735:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2735:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2735:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2735:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2735:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2735:write(2,_"",_0)
+2735:write(2,_"",_0) 2735:write(2,_"./f4439e931858eea72f627407c9364b"...,_34)
+2735:write(2,_"./f4439e931858eea72f627407c9364b"...,_34) 2735:write(2,_":_can't_load_library_'",_22)
+2735:write(2,_":_can't_load_library_'",_22) 2735:write(2,_"libssl.so.1.0.0",_15)
+2735:write(2,_"libssl.so.1.0.0",_15) 2735:write(2,_"'\n",_2)
+2735:write(2,_"'\n",_2) 2735:munmap(0x779fc000,_4096)
+2735:munmap(0x779fc000,_4096) 2735:exit(16)
+2735:exit(16)

@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:52:17 2022
+# 
+2492:execve("./9609d597251570b3f0d0c839bd1166da1f9f202829aa7a98628cd74e1d97faee",_["./9609d597251570b3f0d0c839bd1166"...],_[/*_13_vars_*/]) 2492:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2492:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2492:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x804e8bf},_{SIG_DFL,_[],_0},_8)
+2492:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x804e8bf},_{SIG_DFL,_[],_0},_8) 2492:rt_sigaction(SIGTRAP,_{0x80492c0,_[TRAP],_SA_RESTORER|SA_RESTART,_0x804e8bf},_{SIG_DFL,_[],_0},_8)
+2492:rt_sigaction(SIGTRAP,_{0x80492c0,_[TRAP],_SA_RESTORER|SA_RESTART,_0x804e8bf},_{SIG_DFL,_[],_0},_8) 2492:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2492:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2492:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2492:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2492:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(50296),_sin_addr=inet_addr("192.168.122.102")},_[16])
+2492:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(50296),_sin_addr=inet_addr("192.168.122.102")},_[16]) 2492:close(3)
+2492:close(3) 2492:brk(0)
+2492:brk(0) 2492:brk(0x9001000)
+2492:brk(0x9001000) 2492:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP)
+2492:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP) 2492:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4)
+2492:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4) 2492:fcntl(3,_F_GETFL)
+2492:fcntl(3,_F_GETFL) 2492:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK)
+2492:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK) 2492:bind(3,_{sa_family=AF_INET,_sin_port=htons(57886),_sin_addr=inet_addr("127.0.0.1")},_16)
+2492:bind(3,_{sa_family=AF_INET,_sin_port=htons(57886),_sin_addr=inet_addr("127.0.0.1")},_16) 2492:listen(3,_1)
+2492:listen(3,_1) 2492:time(NULL)
+2492:time(NULL) 2492:getpid()
+2492:getpid() 2492:getppid()
+2492:getppid() 2492:times({tms_utime=1,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})
+2492:times({tms_utime=1,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})

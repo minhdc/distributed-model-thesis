@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:46 2022
+# 
+2349:execve("./9d9733ab30ee4f67d46bd591def30b28",_["./9d9733ab30ee4f67d46bd591def30b"...],_[/*_13_vars_*/]) 2349:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2349:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2349:stat("/etc/ld-uClibc.so.cache",_0xbfb1ab38)
+2349:stat("/etc/ld-uClibc.so.cache",_0xbfb1ab38) 2349:open("/lib/libubox.so",_O_RDONLY)
+2349:open("/lib/libubox.so",_O_RDONLY) 2349:open("/lib/libubox.so",_O_RDONLY) 2349:open("/usr/lib/libubox.so",_O_RDONLY)
+2349:open("/usr/lib/libubox.so",_O_RDONLY) 2349:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2349:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2349:write(2,_"",_0)
+2349:write(2,_"",_0) 2349:write(2,_"./9d9733ab30ee4f67d46bd591def30b"...,_34)
+2349:write(2,_"./9d9733ab30ee4f67d46bd591def30b"...,_34) 2349:write(2,_":_can't_load_library_'",_22)
+2349:write(2,_":_can't_load_library_'",_22) 2349:write(2,_"libubox.so",_10)
+2349:write(2,_"libubox.so",_10) 2349:write(2,_"'\n",_2)
+2349:write(2,_"'\n",_2) 2349:munmap(0x48008000,_4096)
+2349:munmap(0x48008000,_4096) 2349:exit(16)
+2349:exit(16)

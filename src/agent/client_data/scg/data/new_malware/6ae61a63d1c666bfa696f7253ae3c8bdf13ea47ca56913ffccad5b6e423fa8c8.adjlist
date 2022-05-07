@@ -1,0 +1,12 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2287:execve("./6ae61a63d1c666bfa696f7253ae3c8bdf13ea47ca56913ffccad5b6e423fa8c8",_["./6ae61a63d1c666bfa696f7253ae3c8"...],_[/*_13_vars_*/]) 2287:brk(0)
+2287:brk(0) 2287:brk(0x67b000)
+2287:brk(0x67b000) 2287:time(NULL)
+2287:time(NULL) 2287:getpid()
+2287:getpid() 2287:getppid()
+2287:getppid() 2287:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})
+2287:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0}) 2287:fork()
+2287:fork() 2287:exit(0)
+2287:exit(0)

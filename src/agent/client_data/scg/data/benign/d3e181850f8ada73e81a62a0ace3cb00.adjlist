@@ -1,0 +1,8 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:50 2022
+# 
+2294:execve("./d3e181850f8ada73e81a62a0ace3cb00",_["./d3e181850f8ada73e81a62a0ace3cb"...],_[/*_13_vars_*/]) 2294:ioctl(0,_TIOCNXCL,_0x7fb670c0)
+2294:ioctl(0,_TIOCNXCL,_0x7fb670c0) 2294:ioctl(1,_TIOCNXCL,_0x7fb670c0)
+2294:ioctl(1,_TIOCNXCL,_0x7fb670c0) 2294:write(1,_"Check_NTFS_volume_for_error\nUsag"...,_464)
+2294:write(1,_"Check_NTFS_volume_for_error\nUsag"...,_464) 2294:exit(-2)
+2294:exit(-2)

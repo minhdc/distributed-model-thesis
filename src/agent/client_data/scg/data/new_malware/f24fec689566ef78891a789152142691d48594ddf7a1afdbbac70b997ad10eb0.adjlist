@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:03 2022
+# 
+2350:execve("./f24fec689566ef78891a789152142691d48594ddf7a1afdbbac70b997ad10eb0",_["./f24fec689566ef78891a7891521426"...],_[/*_13_vars_*/]) 2350:ioctl(0,_TCGETS,_0xbf90af48)
+2350:ioctl(0,_TCGETS,_0xbf90af48) 2350:ioctl(1,_TCGETS,_0xbf90af48)
+2350:ioctl(1,_TCGETS,_0xbf90af48) 2350:unlink("./f24fec689566ef78891a789152142691d48594ddf7a1afdbbac70b997ad10eb0")
+2350:unlink("./f24fec689566ef78891a789152142691d48594ddf7a1afdbbac70b997ad10eb0") 2350:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[],_8)
+2350:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[],_8) 2350:rt_sigaction(SIGCHLD,_NULL,_{SIG_DFL,_[],_0},_8) 2350:brk(0x1018a000) 2350:nanosleep({2,_0},_0xbf90aa28)
+2350:rt_sigaction(SIGCHLD,_NULL,_{SIG_DFL,_[],_0},_8) 2350:rt_sigprocmask(SIG_SETMASK,_[],_NULL,_8)
+2350:rt_sigprocmask(SIG_SETMASK,_[],_NULL,_8) 2350:nanosleep({2,_0},_0xbf90aa28)
+2350:nanosleep({2,_0},_0xbf90aa28) 2350:open("/proc/",_O_RDONLY|O_NONBLOCK|O_DIRECTORY) 2350:rt_sigaction(SIGQUIT,_{SIG_IGN,_[QUIT],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2350:open("/proc/",_O_RDONLY|O_NONBLOCK|O_DIRECTORY) 2350:fstat(3,_{st_mode=S_IFDIR|0555,_st_size=0,_...})
+2350:fstat(3,_{st_mode=S_IFDIR|0555,_st_size=0,_...}) 2350:fcntl(3,_F_SETFD,_FD_CLOEXEC)
+2350:fcntl(3,_F_SETFD,_FD_CLOEXEC) 2350:brk(0)
+2350:brk(0) 2350:brk(0x1018a000)
+2350:brk(0x1018a000)
+2350:rt_sigaction(SIGQUIT,_{SIG_IGN,_[QUIT],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2350:rt_sigaction(SIGINT,_{SIG_IGN,_[INT],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2350:rt_sigaction(SIGINT,_{SIG_IGN,_[INT],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2350:rt_sigaction(SIGCHLD,_{SIG_DFL,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2350:rt_sigaction(SIGCHLD,_{SIG_DFL,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2350:vfork()
+2350:vfork() 2350:rt_sigaction(SIGQUIT,_{SIG_IGN,_[QUIT],_SA_RESTART},_{SIG_IGN,_[QUIT],_SA_RESTART},_8)
+2350:rt_sigaction(SIGQUIT,_{SIG_IGN,_[QUIT],_SA_RESTART},_{SIG_IGN,_[QUIT],_SA_RESTART},_8) 2350:rt_sigaction(SIGINT,_{SIG_IGN,_[INT],_SA_RESTART},_{SIG_IGN,_[INT],_SA_RESTART},_8)
+2350:rt_sigaction(SIGINT,_{SIG_IGN,_[INT],_SA_RESTART},_{SIG_IGN,_[INT],_SA_RESTART},_8) 2350:wait4(2362,_[{WIFSIGNALED(s)_&&_WTERMSIG(s)_==_SIGTERM}],_0,_NULL)
+2350:wait4(2362,_[{WIFSIGNALED(s)_&&_WTERMSIG(s)_==_SIGTERM}],_0,_NULL)

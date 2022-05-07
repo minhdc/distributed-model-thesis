@@ -1,0 +1,8 @@
+#SCG.py
+# GMT Sun Jan 23 11:58:20 2022
+# 
+2312:execve("./7224362c293034679c2482378114f469d097b82b33496cf9c944ac2b23f206c5",_["./7224362c293034679c2482378114f4"...],_[/*_13_vars_*/]) 2312:uname({sys="Linux",_node="debian-mips",_...})
+2312:uname({sys="Linux",_node="debian-mips",_...}) 2312:brk(0)
+2312:brk(0) 2312:brk(0x793cec)
+2312:brk(0x793cec) 2312:set_thread_area(0x79a490)
+2312:set_thread_area(0x79a490)

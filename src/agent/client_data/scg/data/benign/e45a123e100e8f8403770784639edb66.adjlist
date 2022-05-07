@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:48 2022
+# 
+2304:execve("./e45a123e100e8f8403770784639edb66",_["./e45a123e100e8f8403770784639edb"...],_[/*_13_vars_*/]) 2304:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2304:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2304:stat("/etc/ld-uClibc.so.cache",_0x7ffc3be0)
+2304:stat("/etc/ld-uClibc.so.cache",_0x7ffc3be0) 2304:open("/lib/libiw.so.29",_O_RDONLY)
+2304:open("/lib/libiw.so.29",_O_RDONLY) 2304:open("/lib/libiw.so.29",_O_RDONLY) 2304:open("/usr/lib/libiw.so.29",_O_RDONLY)
+2304:open("/usr/lib/libiw.so.29",_O_RDONLY) 2304:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2304:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2304:write(2,_"",_0)
+2304:write(2,_"",_0) 2304:write(2,_"./e45a123e100e8f8403770784639edb"...,_34)
+2304:write(2,_"./e45a123e100e8f8403770784639edb"...,_34) 2304:write(2,_":_can't_load_library_'",_22)
+2304:write(2,_":_can't_load_library_'",_22) 2304:write(2,_"libiw.so.29",_11)
+2304:write(2,_"libiw.so.29",_11) 2304:write(2,_"'\n",_2)
+2304:write(2,_"'\n",_2) 2304:munmap(0x77059000,_4096)
+2304:munmap(0x77059000,_4096) 2304:exit(16)
+2304:exit(16)

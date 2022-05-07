@@ -1,0 +1,12 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:57 2022
+# 
+2334:execve("./bc8cc31ccc45f68a99d00e4ae02cc0d4",_["./bc8cc31ccc45f68a99d00e4ae02cc0"...],_[/*_13_vars_*/]) 2334:brk(0)
+2334:brk(0) 2334:brk(0x106b1488)
+2334:brk(0x106b1488) 2334:ioctl(0,_TCGETS,_0xbfe280e8)
+2334:ioctl(0,_TCGETS,_0xbfe280e8) 2334:ioctl(1,_TCGETS,_0xbfe280e8)
+2334:ioctl(1,_TCGETS,_0xbfe280e8) 2334:write(2,_"usage:_",_7)
+2334:write(2,_"usage:_",_7) 2334:write(2,_"./bc8cc31ccc45f68a99d00e4ae02cc0"...,_34)
+2334:write(2,_"./bc8cc31ccc45f68a99d00e4ae02cc0"...,_34) 2334:write(2,_"_[-eb|-ea|-cb|-u]_[/dev/mtd<X>]\n",_32)
+2334:write(2,_"_[-eb|-ea|-cb|-u]_[/dev/mtd<X>]\n",_32) 2334:exit_group(1)
+2334:exit_group(1)

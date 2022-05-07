@@ -1,0 +1,6 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:49 2022
+# 
+2302:execve("./202fc862b1de4ad8a3f62770974c946a",_["./202fc862b1de4ad8a3f62770974c94"...],_[/*_13_vars_*/]) 2302:ioctl(0,_TIOCNXCL,_0x7fec7358)
+2302:ioctl(0,_TIOCNXCL,_0x7fec7358) 2302:ioctl(1,_TIOCNXCL,_0x7fec7358)
+2302:ioctl(1,_TIOCNXCL,_0x7fec7358)

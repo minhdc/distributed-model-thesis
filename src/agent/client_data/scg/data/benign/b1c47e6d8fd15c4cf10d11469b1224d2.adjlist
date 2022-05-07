@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:52 2022
+# 
+2481:execve("./b1c47e6d8fd15c4cf10d11469b1224d2",_["./b1c47e6d8fd15c4cf10d11469b1224"...],_[/*_13_vars_*/]) 2481:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2481:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2481:stat("/etc/ld-uClibc.so.cache",_0xbf8d0f44)
+2481:stat("/etc/ld-uClibc.so.cache",_0xbf8d0f44) 2481:open("/lib/libuc++.so",_O_RDONLY)
+2481:open("/lib/libuc++.so",_O_RDONLY) 2481:open("/lib/libuc++.so",_O_RDONLY) 2481:open("/usr/lib/libuc++.so",_O_RDONLY)
+2481:open("/usr/lib/libuc++.so",_O_RDONLY) 2481:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2481:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2481:write(2,_"",_0)
+2481:write(2,_"",_0) 2481:write(2,_"./b1c47e6d8fd15c4cf10d11469b1224"...,_34)
+2481:write(2,_"./b1c47e6d8fd15c4cf10d11469b1224"...,_34) 2481:write(2,_":_can't_load_library_'",_22)
+2481:write(2,_":_can't_load_library_'",_22) 2481:write(2,_"libuc++.so",_10)
+2481:write(2,_"libuc++.so",_10) 2481:write(2,_"'\n",_2)
+2481:write(2,_"'\n",_2) 2481:munmap(0xb7795000,_4096)
+2481:munmap(0xb7795000,_4096) 2481:_exit(16)
+2481:_exit(16)

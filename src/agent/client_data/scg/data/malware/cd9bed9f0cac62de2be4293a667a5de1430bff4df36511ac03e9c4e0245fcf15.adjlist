@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:57:45 2022
+# 
+2353:execve("./cd9bed9f0cac62de2be4293a667a5de1430bff4df36511ac03e9c4e0245fcf15",_["./cd9bed9f0cac62de2be4293a667a5d"...],_[/*_13_vars_*/]) 2353:ioctl(0,_TCGETS,_0xbf933848)
+2353:ioctl(0,_TCGETS,_0xbf933848) 2353:ioctl(1,_TCGETS,_0xbf933848)
+2353:ioctl(1,_TCGETS,_0xbf933848) 2353:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2353:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2353:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2353:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2353:rt_sigaction(SIGTRAP,_{0x100052e0,_[TRAP],_SA_RESTART},_{SIG_DFL,_[],_0},_8)
+2353:rt_sigaction(SIGTRAP,_{0x100052e0,_[TRAP],_SA_RESTART},_{SIG_DFL,_[],_0},_8) 2353:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[INT],_8)
+2353:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[INT],_8) 2353:rt_sigaction(SIGCHLD,_NULL,_{SIG_IGN,_[CHLD],_SA_RESTART},_8)
+2353:rt_sigaction(SIGCHLD,_NULL,_{SIG_IGN,_[CHLD],_SA_RESTART},_8) 2353:nanosleep({1,_0},_0xbf933118)
+2353:nanosleep({1,_0},_0xbf933118) 2353:rt_sigprocmask(SIG_SETMASK,_[INT],_NULL,_8)
+2353:rt_sigprocmask(SIG_SETMASK,_[INT],_NULL,_8) 2353:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2353:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2353:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2353:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2353:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(39240),_sin_addr=inet_addr("192.168.122.104")},_[16])
+2353:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(39240),_sin_addr=inet_addr("192.168.122.104")},_[16]) 2353:close(3)
+2353:close(3) 2353:brk(0)
+2353:brk(0) 2353:brk(0x10649000)
+2353:brk(0x10649000) 2353:time(NULL)
+2353:time(NULL) 2353:getpid()
+2353:getpid() 2353:getppid()
+2353:getppid() 2353:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})
+2353:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})

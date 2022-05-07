@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:54 2022
+# 
+2307:execve("./40e2bf011e53bb506eba0deaf942e6e3",_["./40e2bf011e53bb506eba0deaf942e6"...],_[/*_13_vars_*/]) 2307:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2307:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2307:stat("/etc/ld-uClibc.so.cache",_0x7fd3a1e0)
+2307:stat("/etc/ld-uClibc.so.cache",_0x7fd3a1e0) 2307:open("/home/emily_ye/asuswrt/release/src-ra-4300/router/openssl/libssl.so.1.0.0",_O_RDONLY)
+2307:open("/home/emily_ye/asuswrt/release/src-ra-4300/router/openssl/libssl.so.1.0.0",_O_RDONLY) 2307:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2307:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2307:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2307:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2307:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2307:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2307:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2307:write(2,_"",_0)
+2307:write(2,_"",_0) 2307:write(2,_"./40e2bf011e53bb506eba0deaf942e6"...,_34)
+2307:write(2,_"./40e2bf011e53bb506eba0deaf942e6"...,_34) 2307:write(2,_":_can't_load_library_'",_22)
+2307:write(2,_":_can't_load_library_'",_22) 2307:write(2,_"libssl.so.1.0.0",_15)
+2307:write(2,_"libssl.so.1.0.0",_15) 2307:write(2,_"'\n",_2)
+2307:write(2,_"'\n",_2) 2307:munmap(0x77fe3000,_4096)
+2307:munmap(0x77fe3000,_4096) 2307:exit(16)
+2307:exit(16)

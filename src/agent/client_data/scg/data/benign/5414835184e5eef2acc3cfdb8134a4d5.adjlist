@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:56 2022
+# 
+2695:execve("./5414835184e5eef2acc3cfdb8134a4d5",_["./5414835184e5eef2acc3cfdb8134a4"...],_[/*_13_vars_*/]) 2695:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2695:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2695:stat("/etc/ld-uClibc.so.cache",_0x7fd0d280)
+2695:stat("/etc/ld-uClibc.so.cache",_0x7fd0d280) 2695:open("/lib/libgobject-2.0.so.0",_O_RDONLY)
+2695:open("/lib/libgobject-2.0.so.0",_O_RDONLY) 2695:open("/lib/libgobject-2.0.so.0",_O_RDONLY) 2695:open("/usr/lib/libgobject-2.0.so.0",_O_RDONLY)
+2695:open("/usr/lib/libgobject-2.0.so.0",_O_RDONLY) 2695:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2695:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2695:write(2,_"",_0)
+2695:write(2,_"",_0) 2695:write(2,_"./5414835184e5eef2acc3cfdb8134a4"...,_34)
+2695:write(2,_"./5414835184e5eef2acc3cfdb8134a4"...,_34) 2695:write(2,_":_can't_load_library_'",_22)
+2695:write(2,_":_can't_load_library_'",_22) 2695:write(2,_"libgobject-2.0.so.0",_19)
+2695:write(2,_"libgobject-2.0.so.0",_19) 2695:write(2,_"'\n",_2)
+2695:write(2,_"'\n",_2) 2695:munmap(0x77c0a000,_4096)
+2695:munmap(0x77c0a000,_4096) 2695:exit(16)
+2695:exit(16)

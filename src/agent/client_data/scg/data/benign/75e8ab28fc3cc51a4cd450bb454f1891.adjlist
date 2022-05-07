@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:51 2022
+# 
+2359:execve("./75e8ab28fc3cc51a4cd450bb454f1891",_["./75e8ab28fc3cc51a4cd450bb454f18"...],_[/*_13_vars_*/]) 2359:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2359:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2359:stat("/etc/ld-uClibc.so.cache",_0xbfedd528)
+2359:stat("/etc/ld-uClibc.so.cache",_0xbfedd528) 2359:open("/lib/libuxml++.so",_O_RDONLY)
+2359:open("/lib/libuxml++.so",_O_RDONLY) 2359:open("/lib/libuxml++.so",_O_RDONLY) 2359:open("/usr/lib/libuxml++.so",_O_RDONLY)
+2359:open("/usr/lib/libuxml++.so",_O_RDONLY) 2359:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2359:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2359:write(2,_"",_0)
+2359:write(2,_"",_0) 2359:write(2,_"./75e8ab28fc3cc51a4cd450bb454f18"...,_34)
+2359:write(2,_"./75e8ab28fc3cc51a4cd450bb454f18"...,_34) 2359:write(2,_":_can't_load_library_'",_22)
+2359:write(2,_":_can't_load_library_'",_22) 2359:write(2,_"libuxml++.so",_12)
+2359:write(2,_"libuxml++.so",_12) 2359:write(2,_"'\n",_2)
+2359:write(2,_"'\n",_2) 2359:munmap(0x48008000,_4096)
+2359:munmap(0x48008000,_4096) 2359:exit(16)
+2359:exit(16)

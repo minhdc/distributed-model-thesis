@@ -1,0 +1,18 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:41 2022
+# 
+2321:execve("./cb03463f94f86e5433273f064b62eab3",_["./cb03463f94f86e5433273f064b62ea"...],_[/*_13_vars_*/]) 2321:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2321:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2321:stat("/etc/ld-uClibc.so.cache",_0x7f9fee00)
+2321:stat("/etc/ld-uClibc.so.cache",_0x7f9fee00) 2321:open("/home/jerryjian/asuswrt/20130826/asuswrt/release/src-ra-4300/router/mipsel-uclibc/install/avahi-0.6.31/usr/lib/libavahi-common.so.3",_O_RDONLY)
+2321:open("/home/jerryjian/asuswrt/20130826/asuswrt/release/src-ra-4300/router/mipsel-uclibc/install/avahi-0.6.31/usr/lib/libavahi-common.so.3",_O_RDONLY) 2321:open("/home/jerryjian/asuswrt/20130826/asuswrt/release/src-ra-4300/router/mipsel-uclibc/install/expat-2.0.1/usr/lib/libavahi-common.so.3",_O_RDONLY)
+2321:open("/home/jerryjian/asuswrt/20130826/asuswrt/release/src-ra-4300/router/mipsel-uclibc/install/expat-2.0.1/usr/lib/libavahi-common.so.3",_O_RDONLY) 2321:open("/lib/libavahi-common.so.3",_O_RDONLY)
+2321:open("/lib/libavahi-common.so.3",_O_RDONLY) 2321:open("/lib/libavahi-common.so.3",_O_RDONLY) 2321:open("/usr/lib/libavahi-common.so.3",_O_RDONLY)
+2321:open("/usr/lib/libavahi-common.so.3",_O_RDONLY) 2321:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2321:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2321:write(2,_"",_0)
+2321:write(2,_"",_0) 2321:write(2,_"./cb03463f94f86e5433273f064b62ea"...,_34)
+2321:write(2,_"./cb03463f94f86e5433273f064b62ea"...,_34) 2321:write(2,_":_can't_load_library_'",_22)
+2321:write(2,_":_can't_load_library_'",_22) 2321:write(2,_"libavahi-common.so.3",_20)
+2321:write(2,_"libavahi-common.so.3",_20) 2321:write(2,_"'\n",_2)
+2321:write(2,_"'\n",_2) 2321:munmap(0x77203000,_4096)
+2321:munmap(0x77203000,_4096) 2321:exit(16)
+2321:exit(16)

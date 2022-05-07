@@ -1,0 +1,15 @@
+#SCG.py
+# GMT Sun Jan 23 11:52:23 2022
+# 
+2462:execve("./009ed622bf936a036828fab19ceb69d78264ab51507396a3809bbe947ddd9ddf",_["./009ed622bf936a036828fab19ceb69"...],_[/*_13_vars_*/]) 2462:unlink("./009ed622bf936a036828fab19ceb69d78264ab51507396a3809bbe947ddd9ddf")
+2462:unlink("./009ed622bf936a036828fab19ceb69d78264ab51507396a3809bbe947ddd9ddf") 2462:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2462:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2462:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80542d7},_{SIG_DFL,_[],_0},_8)
+2462:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80542d7},_{SIG_DFL,_[],_0},_8) 2462:rt_sigaction(SIGTRAP,_{0x804e3f0,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80542d7},_{SIG_DFL,_[],_0},_8)
+2462:rt_sigaction(SIGTRAP,_{0x804e3f0,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80542d7},_{SIG_DFL,_[],_0},_8) 2462:open("/dev/watchdog",_O_RDWR)
+2462:open("/dev/watchdog",_O_RDWR) 2462:open("/dev/misc/watchdog",_O_RDWR)
+2462:open("/dev/misc/watchdog",_O_RDWR) 2462:chdir("/")
+2462:chdir("/") 2462:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2462:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2462:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2462:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2462:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(43878),_sin_addr=inet_addr("192.168.122.102")},_[16])
+2462:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(43878),_sin_addr=inet_addr("192.168.122.102")},_[16]) 2462:close(3)
+2462:close(3)

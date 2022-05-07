@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:49 2022
+# 
+2699:execve("./e7db6764758f5218c61b466ad58b8357",_["./e7db6764758f5218c61b466ad58b83"...],_[/*_13_vars_*/]) 2699:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2699:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2699:stat("/etc/ld-uClibc.so.cache",_0x7fe42ae0)
+2699:stat("/etc/ld-uClibc.so.cache",_0x7fe42ae0) 2699:open("/lib/libumsg.so",_O_RDONLY)
+2699:open("/lib/libumsg.so",_O_RDONLY) 2699:open("/lib/libumsg.so",_O_RDONLY) 2699:open("/usr/lib/libumsg.so",_O_RDONLY)
+2699:open("/usr/lib/libumsg.so",_O_RDONLY) 2699:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2699:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2699:write(2,_"",_0)
+2699:write(2,_"",_0) 2699:write(2,_"./e7db6764758f5218c61b466ad58b83"...,_34)
+2699:write(2,_"./e7db6764758f5218c61b466ad58b83"...,_34) 2699:write(2,_":_can't_load_library_'",_22)
+2699:write(2,_":_can't_load_library_'",_22) 2699:write(2,_"libumsg.so",_10)
+2699:write(2,_"libumsg.so",_10) 2699:write(2,_"'\n",_2)
+2699:write(2,_"'\n",_2) 2699:munmap(0x77a61000,_4096)
+2699:munmap(0x77a61000,_4096) 2699:exit(16)
+2699:exit(16)

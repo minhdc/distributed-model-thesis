@@ -1,0 +1,19 @@
+#SCG.py
+# GMT Sun Jan 23 11:57:56 2022
+# 
+2489:execve("./d08d183b57ba9793fe1aa6e9406b39687887e172fbb109c1a3587adb0b4f04a0",_["./d08d183b57ba9793fe1aa6e9406b39"...],_[/*_13_vars_*/]) 2489:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbf8ceb60)
+2489:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbf8ceb60) 2489:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbf8ceb60)
+2489:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbf8ceb60) 2489:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2489:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2489:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80566c7},_{SIG_DFL,_[],_0},_8)
+2489:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80566c7},_{SIG_DFL,_[],_0},_8) 2489:rt_sigaction(SIGTRAP,_{0x805042a,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80566c7},_{SIG_DFL,_[],_0},_8)
+2489:rt_sigaction(SIGTRAP,_{0x805042a,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80566c7},_{SIG_DFL,_[],_0},_8) 2489:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2489:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2489:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("109.228.58.245")},_16)
+2489:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("109.228.58.245")},_16) 2489:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(51728),_sin_addr=inet_addr("192.168.122.102")},_[16])
+2489:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(51728),_sin_addr=inet_addr("192.168.122.102")},_[16]) 2489:close(3)
+2489:close(3) 2489:brk(0)
+2489:brk(0) 2489:brk(0x9110000)
+2489:brk(0x9110000) 2489:time(NULL)
+2489:time(NULL) 2489:getpid()
+2489:getpid() 2489:getppid()
+2489:getppid() 2489:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})
+2489:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})

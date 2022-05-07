@@ -1,0 +1,10 @@
+#SCG.py
+# GMT Sun Jan 23 11:51:47 2022
+# 
+2311:execve("./c62f247327aabf17a607135938c0120f",_["./c62f247327aabf17a607135938c012"...],_[/*_13_vars_*/]) 2311:ioctl(0,_TIOCNXCL,_0x7fae47c0)
+2311:ioctl(0,_TIOCNXCL,_0x7fae47c0) 2311:ioctl(1,_TIOCNXCL,_0x7fae47c0)
+2311:ioctl(1,_TIOCNXCL,_0x7fae47c0) 2311:prctl(0xf,_0x419870,_0,_0,_0)
+2311:prctl(0xf,_0x419870,_0,_0,_0) 2311:time(NULL)
+2311:time(NULL) 2311:getpid()
+2311:getpid() 2311:fork()
+2311:fork()

@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:56 2022
+# 
+2350:execve("./e4711e4fffe0d1c1aac540370d8547b3",_["./e4711e4fffe0d1c1aac540370d8547"...],_[/*_13_vars_*/]) 2350:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2350:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2350:stat("/etc/ld-uClibc.so.cache",_0xbff21338)
+2350:stat("/etc/ld-uClibc.so.cache",_0xbff21338) 2350:open("/lib/libubox.so",_O_RDONLY)
+2350:open("/lib/libubox.so",_O_RDONLY) 2350:open("/lib/libubox.so",_O_RDONLY) 2350:open("/usr/lib/libubox.so",_O_RDONLY)
+2350:open("/usr/lib/libubox.so",_O_RDONLY) 2350:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2350:mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2350:write(2,_"",_0)
+2350:write(2,_"",_0) 2350:write(2,_"./e4711e4fffe0d1c1aac540370d8547"...,_34)
+2350:write(2,_"./e4711e4fffe0d1c1aac540370d8547"...,_34) 2350:write(2,_":_can't_load_library_'",_22)
+2350:write(2,_":_can't_load_library_'",_22) 2350:write(2,_"libubox.so",_10)
+2350:write(2,_"libubox.so",_10) 2350:write(2,_"'\n",_2)
+2350:write(2,_"'\n",_2) 2350:munmap(0x48008000,_4096)
+2350:munmap(0x48008000,_4096) 2350:exit(16)
+2350:exit(16)

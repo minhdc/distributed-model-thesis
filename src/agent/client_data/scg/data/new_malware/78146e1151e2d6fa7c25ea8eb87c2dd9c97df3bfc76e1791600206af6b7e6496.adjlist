@@ -1,0 +1,14 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:03 2022
+# 
+2378:execve("./78146e1151e2d6fa7c25ea8eb87c2dd9c97df3bfc76e1791600206af6b7e6496",_["./78146e1151e2d6fa7c25ea8eb87c2d"...],_[/*_13_vars_*/]) 2378:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2378:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2378:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2378:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2378:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(37417),_sin_addr=inet_addr("192.168.122.12")},_[16])
+2378:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(37417),_sin_addr=inet_addr("192.168.122.12")},_[16]) 2378:close(3)
+2378:close(3) 2378:brk(0)
+2378:brk(0) 2378:brk(0x505000)
+2378:brk(0x505000) 2378:time(NULL)
+2378:time(NULL) 2378:getpid()
+2378:getpid() 2378:getppid()
+2378:getppid() 2378:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})
+2378:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})

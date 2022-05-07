@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:54 2022
+# 
+2389:execve("./0377cb9596afef78980df061d608db4f",_["./0377cb9596afef78980df061d608db"...],_[/*_13_vars_*/]) 2389:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2389:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2389:stat("/etc/ld-uClibc.so.cache",_0xbeb24980)
+2389:stat("/etc/ld-uClibc.so.cache",_0xbeb24980) 2389:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2389:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2389:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2389:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2389:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2389:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2389:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2389:write(2,_"",_0)
+2389:write(2,_"",_0) 2389:write(2,_"./0377cb9596afef78980df061d608db"...,_34)
+2389:write(2,_"./0377cb9596afef78980df061d608db"...,_34) 2389:write(2,_":_can't_load_library_'",_22)
+2389:write(2,_":_can't_load_library_'",_22) 2389:write(2,_"libssl.so.1.0.0",_15)
+2389:write(2,_"libssl.so.1.0.0",_15) 2389:write(2,_"'\n",_2)
+2389:write(2,_"'\n",_2) 2389:munmap(0xb6f9e000,_4096)
+2389:munmap(0xb6f9e000,_4096) 2389:exit(16)
+2389:exit(16)

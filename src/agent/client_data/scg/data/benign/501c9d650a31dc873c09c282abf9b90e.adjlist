@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:47 2022
+# 
+2324:execve("./501c9d650a31dc873c09c282abf9b90e",_["./501c9d650a31dc873c09c282abf9b9"...],_[/*_13_vars_*/]) 2324:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2324:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2324:stat("/etc/ld-uClibc.so.cache",_0x7fec86b0)
+2324:stat("/etc/ld-uClibc.so.cache",_0x7fec86b0) 2324:open("/lib/libtcapi.so.1",_O_RDONLY)
+2324:open("/lib/libtcapi.so.1",_O_RDONLY) 2324:open("/lib/libtcapi.so.1",_O_RDONLY) 2324:open("/usr/lib/libtcapi.so.1",_O_RDONLY)
+2324:open("/usr/lib/libtcapi.so.1",_O_RDONLY) 2324:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2324:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2324:write(2,_"",_0)
+2324:write(2,_"",_0) 2324:write(2,_"./501c9d650a31dc873c09c282abf9b9"...,_34)
+2324:write(2,_"./501c9d650a31dc873c09c282abf9b9"...,_34) 2324:write(2,_":_can't_load_library_'",_22)
+2324:write(2,_":_can't_load_library_'",_22) 2324:write(2,_"libtcapi.so.1",_13)
+2324:write(2,_"libtcapi.so.1",_13) 2324:write(2,_"'\n",_2)
+2324:write(2,_"'\n",_2) 2324:munmap(0x77d1b000,_4096)
+2324:munmap(0x77d1b000,_4096) 2324:exit(16)
+2324:exit(16)

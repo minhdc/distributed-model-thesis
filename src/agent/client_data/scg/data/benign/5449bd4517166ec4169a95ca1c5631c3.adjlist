@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:50 2022
+# 
+2311:execve("./5449bd4517166ec4169a95ca1c5631c3",_["./5449bd4517166ec4169a95ca1c5631"...],_[/*_13_vars_*/]) 2311:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2311:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2311:stat("/etc/ld-uClibc.so.cache",_0x7fefee80)
+2311:stat("/etc/ld-uClibc.so.cache",_0x7fefee80) 2311:open("/usr/local/lib/libmDNSResponder.so.0",_O_RDONLY)
+2311:open("/usr/local/lib/libmDNSResponder.so.0",_O_RDONLY) 2311:open("/lib/libmDNSResponder.so.0",_O_RDONLY)
+2311:open("/lib/libmDNSResponder.so.0",_O_RDONLY) 2311:open("/lib/libmDNSResponder.so.0",_O_RDONLY) 2311:open("/usr/lib/libmDNSResponder.so.0",_O_RDONLY)
+2311:open("/usr/lib/libmDNSResponder.so.0",_O_RDONLY) 2311:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2311:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2311:write(2,_"",_0)
+2311:write(2,_"",_0) 2311:write(2,_"./5449bd4517166ec4169a95ca1c5631"...,_34)
+2311:write(2,_"./5449bd4517166ec4169a95ca1c5631"...,_34) 2311:write(2,_":_can't_load_library_'",_22)
+2311:write(2,_":_can't_load_library_'",_22) 2311:write(2,_"libmDNSResponder.so.0",_21)
+2311:write(2,_"libmDNSResponder.so.0",_21) 2311:write(2,_"'\n",_2)
+2311:write(2,_"'\n",_2) 2311:munmap(0x7787e000,_4096)
+2311:munmap(0x7787e000,_4096) 2311:exit(16)
+2311:exit(16)

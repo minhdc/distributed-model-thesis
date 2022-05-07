@@ -1,0 +1,22 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2378:execve("./4a30cc3da3c6b05a5339c9e883026e35892178a6f450ba48951afb592b9af110",_["./4a30cc3da3c6b05a5339c9e883026e"...],_[/*_13_vars_*/]) 2378:brk(0)
+2378:brk(0) 2378:brk(0x9dc4b0)
+2378:brk(0x9dc4b0) 2378:set_tls(0x9dc490,_0x24284,_0,_0x1,_0x26ba4)
+2378:set_tls(0x9dc490,_0x24284,_0,_0x1,_0x26ba4) 2378:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbe9f2b14)
+2378:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbe9f2b14) 2378:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbe9f2b14)
+2378:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbe9f2b14) 2378:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2378:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2378:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART|0x4000000},_{SIG_DFL,_[],_0},_8)
+2378:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTART|0x4000000},_{SIG_DFL,_[],_0},_8) 2378:rt_sigaction(SIGTRAP,_{0xe288,_[TRAP],_SA_RESTART|0x4000000},_{SIG_DFL,_[],_0},_8)
+2378:rt_sigaction(SIGTRAP,_{0xe288,_[TRAP],_SA_RESTART|0x4000000},_{SIG_DFL,_[],_0},_8) 2378:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2378:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2378:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2378:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2378:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(51977),_sin_addr=inet_addr("192.168.122.12")},_[16])
+2378:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(51977),_sin_addr=inet_addr("192.168.122.12")},_[16]) 2378:close(3)
+2378:close(3) 2378:brk(0x9dd4b0)
+2378:brk(0x9dd4b0) 2378:brk(0x9de000)
+2378:brk(0x9de000) 2378:gettimeofday({1642883747,_291364},_NULL)
+2378:gettimeofday({1642883747,_291364},_NULL) 2378:getpid()
+2378:getpid() 2378:getppid()
+2378:getppid() 2378:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})
+2378:times({tms_utime=0,_tms_stime=1,_tms_cutime=0,_tms_cstime=0})

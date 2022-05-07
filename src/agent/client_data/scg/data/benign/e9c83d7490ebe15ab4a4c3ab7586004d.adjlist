@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:50 2022
+# 
+2403:execve("./e9c83d7490ebe15ab4a4c3ab7586004d",_["./e9c83d7490ebe15ab4a4c3ab758600"...],_[/*_13_vars_*/]) 2403:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2403:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2403:stat("/etc/ld-uClibc.so.cache",_0xbea99980)
+2403:stat("/etc/ld-uClibc.so.cache",_0xbea99980) 2403:open("/lib/libcrypto.so.1.0.0",_O_RDONLY)
+2403:open("/lib/libcrypto.so.1.0.0",_O_RDONLY) 2403:open("/lib/libcrypto.so.1.0.0",_O_RDONLY) 2403:open("/usr/lib/libcrypto.so.1.0.0",_O_RDONLY)
+2403:open("/usr/lib/libcrypto.so.1.0.0",_O_RDONLY) 2403:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2403:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2403:write(2,_"",_0)
+2403:write(2,_"",_0) 2403:write(2,_"./e9c83d7490ebe15ab4a4c3ab758600"...,_34)
+2403:write(2,_"./e9c83d7490ebe15ab4a4c3ab758600"...,_34) 2403:write(2,_":_can't_load_library_'",_22)
+2403:write(2,_":_can't_load_library_'",_22) 2403:write(2,_"libcrypto.so.1.0.0",_18)
+2403:write(2,_"libcrypto.so.1.0.0",_18) 2403:write(2,_"'\n",_2)
+2403:write(2,_"'\n",_2) 2403:munmap(0xb6fa8000,_4096)
+2403:munmap(0xb6fa8000,_4096) 2403:exit(16)
+2403:exit(16)

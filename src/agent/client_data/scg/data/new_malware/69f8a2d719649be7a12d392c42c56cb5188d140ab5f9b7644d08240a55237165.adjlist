@@ -1,0 +1,10 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2381:execve("./69f8a2d719649be7a12d392c42c56cb5188d140ab5f9b7644d08240a55237165",_["./69f8a2d719649be7a12d392c42c56c"...],_[/*_13_vars_*/]) 2381:brk(0)
+2381:brk(0) 2381:brk(0x71d4b0)
+2381:brk(0x71d4b0) 2381:set_tls(0x71d490,_0x23004,_0,_0x1,_0x258c8)
+2381:set_tls(0x71d490,_0x23004,_0,_0x1,_0x258c8) 2381:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbeca0b14)
+2381:ioctl(0,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbeca0b14) 2381:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbeca0b14)
+2381:ioctl(1,_SNDCTL_TMR_TIMEBASE_or_TCGETS,_0xbeca0b14) 2381:write(1,_"I_\342\235\244_IoT\n",_10)
+2381:write(1,_"I_\342\235\244_IoT\n",_10)

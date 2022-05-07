@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:51 2022
+# 
+2317:execve("./9f4ccb94ecd6dc2ef7caeb1fa0f95492",_["./9f4ccb94ecd6dc2ef7caeb1fa0f954"...],_[/*_13_vars_*/]) 2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2317:stat("/etc/ld-uClibc.so.cache",_0x7ffd2fa0)
+2317:stat("/etc/ld-uClibc.so.cache",_0x7ffd2fa0) 2317:open("/lib/libz.so",_O_RDONLY)
+2317:open("/lib/libz.so",_O_RDONLY) 2317:open("/lib/libz.so",_O_RDONLY) 2317:open("/usr/lib/libz.so",_O_RDONLY)
+2317:open("/usr/lib/libz.so",_O_RDONLY) 2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2317:write(2,_"",_0)
+2317:write(2,_"",_0) 2317:write(2,_"./9f4ccb94ecd6dc2ef7caeb1fa0f954"...,_34)
+2317:write(2,_"./9f4ccb94ecd6dc2ef7caeb1fa0f954"...,_34) 2317:write(2,_":_can't_load_library_'",_22)
+2317:write(2,_":_can't_load_library_'",_22) 2317:write(2,_"libz.so",_7)
+2317:write(2,_"libz.so",_7) 2317:write(2,_"'\n",_2)
+2317:write(2,_"'\n",_2) 2317:munmap(0x7751c000,_4096)
+2317:munmap(0x7751c000,_4096) 2317:exit(16)
+2317:exit(16)

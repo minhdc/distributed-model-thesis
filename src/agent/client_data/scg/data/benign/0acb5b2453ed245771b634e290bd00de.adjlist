@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:54 2022
+# 
+2482:execve("./0acb5b2453ed245771b634e290bd00de",_["./0acb5b2453ed245771b634e290bd00"...],_[/*_13_vars_*/]) 2482:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2482:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2482:stat("/etc/ld-uClibc.so.cache",_0xbfb06f24) 2482:fstat(3,_{st_mode=S_IFREG|0775,_st_size=51039,_...}) 2482:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\3\0\1\0\0\0\240\24\0\0004\0\0\0"...,_4096)
+2482:stat("/etc/ld-uClibc.so.cache",_0xbfb06f24) 2482:open("/lib/libm.so.0",_O_RDONLY)
+2482:open("/lib/libm.so.0",_O_RDONLY) 2482:fstat(3,_{st_mode=S_IFREG|0775,_st_size=51039,_...})
+2482:fstat(3,_{st_mode=S_IFREG|0775,_st_size=51039,_...})
+2482:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\3\0\1\0\0\0\240\24\0\0004\0\0\0"...,_4096) 2482:mmap2(NULL,_45056,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2482:mmap2(NULL,_45056,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2482:mmap2(0xb7730000,_35863,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0)
+2482:mmap2(0xb7730000,_35863,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0) 2482:mmap2(0xb7739000,_4152,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x8)
+2482:mmap2(0xb7739000,_4152,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x8) 2482:close(3)
+2482:close(3) 2482:munmap(0xb773b000,_4096)
+2482:munmap(0xb773b000,_4096) 2482:open("/lib/libumsg.so",_O_RDONLY) 2482:write(2,_"'\n",_2) 2482:_exit(16)
+2482:open("/lib/libumsg.so",_O_RDONLY) 2482:open("/lib/libumsg.so",_O_RDONLY) 2482:open("/usr/lib/libumsg.so",_O_RDONLY)
+2482:open("/usr/lib/libumsg.so",_O_RDONLY) 2482:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2482:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2482:write(2,_"",_0)
+2482:write(2,_"",_0) 2482:write(2,_"./0acb5b2453ed245771b634e290bd00"...,_34)
+2482:write(2,_"./0acb5b2453ed245771b634e290bd00"...,_34) 2482:write(2,_":_can't_load_library_'",_22)
+2482:write(2,_":_can't_load_library_'",_22) 2482:write(2,_"libumsg.so",_10)
+2482:write(2,_"libumsg.so",_10) 2482:write(2,_"'\n",_2)
+2482:write(2,_"'\n",_2)
+2482:_exit(16)

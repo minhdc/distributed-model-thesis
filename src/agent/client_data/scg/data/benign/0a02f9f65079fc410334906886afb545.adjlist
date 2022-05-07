@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:47 2022
+# 
+2310:execve("./0a02f9f65079fc410334906886afb545",_["./0a02f9f65079fc410334906886afb5"...],_[/*_13_vars_*/]) 2310:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2310:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2310:stat("/etc/ld-uClibc.so.cache",_0x7ffae5a0)
+2310:stat("/etc/ld-uClibc.so.cache",_0x7ffae5a0) 2310:open("/etc/lib/libssl.so.1.0.0",_O_RDONLY)
+2310:open("/etc/lib/libssl.so.1.0.0",_O_RDONLY) 2310:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2310:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2310:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2310:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2310:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2310:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2310:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2310:write(2,_"",_0)
+2310:write(2,_"",_0) 2310:write(2,_"./0a02f9f65079fc410334906886afb5"...,_34)
+2310:write(2,_"./0a02f9f65079fc410334906886afb5"...,_34) 2310:write(2,_":_can't_load_library_'",_22)
+2310:write(2,_":_can't_load_library_'",_22) 2310:write(2,_"libssl.so.1.0.0",_15)
+2310:write(2,_"libssl.so.1.0.0",_15) 2310:write(2,_"'\n",_2)
+2310:write(2,_"'\n",_2) 2310:munmap(0x773c1000,_4096)
+2310:munmap(0x773c1000,_4096) 2310:exit(16)
+2310:exit(16)

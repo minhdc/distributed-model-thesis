@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:51 2022
+# 
+2317:execve("./0a8befffe85d17791a83d3a46dbcd271",_["./0a8befffe85d17791a83d3a46dbcd2"...],_[/*_13_vars_*/]) 2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2317:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2317:stat("/etc/ld-uClibc.so.cache",_0x7fd3a230) 2317:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...}) 2317:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\10\0\1\0\0\0p\264\0\0004\0\0\0"...,_4096) 2317:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...}) 2317:set_thread_area(0x778a6460)
+2317:stat("/etc/ld-uClibc.so.cache",_0x7fd3a230) 2317:open("/lib/libc.so.0",_O_RDONLY)
+2317:open("/lib/libc.so.0",_O_RDONLY) 2317:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...})
+2317:fstat(3,_{st_mode=S_IFREG|0775,_st_size=616590,_...})
+2317:read(3,_"\177ELF\1\1\1\0\0\0\0\0\0\0\0\0\3\0\10\0\1\0\0\0p\264\0\0004\0\0\0"...,_4096) 2317:old_mmap(NULL,_524288,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2317:old_mmap(NULL,_524288,_PROT_NONE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2317:old_mmap(0x7780a000,_431964,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0)
+2317:old_mmap(0x7780a000,_431964,_PROT_READ|PROT_EXEC,_MAP_PRIVATE|MAP_FIXED,_3,_0) 2317:old_mmap(0x77883000,_7824,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x69000)
+2317:old_mmap(0x77883000,_7824,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED,_3,_0x69000) 2317:old_mmap(0x77885000,_19660,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS,_-1,_0)
+2317:old_mmap(0x77885000,_19660,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS,_-1,_0) 2317:close(3)
+2317:close(3) 2317:munmap(0x7789f000,_4096)
+2317:munmap(0x7789f000,_4096) 2317:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...})
+2317:stat("/lib/ld-uClibc.so.0",_{st_mode=S_IFREG|0775,_st_size=39217,_...})
+2317:set_thread_area(0x778a6460) 2317:mprotect(0x77883000,_4096,_PROT_READ)
+2317:mprotect(0x77883000,_4096,_PROT_READ) 2317:mprotect(0x778a1000,_4096,_PROT_READ)
+2317:mprotect(0x778a1000,_4096,_PROT_READ) 2317:ioctl(0,_TIOCNXCL,_0x7fd3a208)
+2317:ioctl(0,_TIOCNXCL,_0x7fd3a208) 2317:ioctl(1,_TIOCNXCL,_0x7fd3a208)
+2317:ioctl(1,_TIOCNXCL,_0x7fd3a208) 2317:write(2,_"usage:_nvram_[get_name]_[set_nam"...,_61)
+2317:write(2,_"usage:_nvram_[get_name]_[set_nam"...,_61) 2317:exit_group(0)
+2317:exit_group(0)

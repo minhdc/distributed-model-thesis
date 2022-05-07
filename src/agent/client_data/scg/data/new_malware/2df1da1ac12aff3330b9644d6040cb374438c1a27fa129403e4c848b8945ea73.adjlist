@@ -1,0 +1,14 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2375:execve("./2df1da1ac12aff3330b9644d6040cb374438c1a27fa129403e4c848b8945ea73",_["./2df1da1ac12aff3330b9644d6040cb"...],_[/*_13_vars_*/]) 2375:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2375:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2375:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2375:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2375:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(37149),_sin_addr=inet_addr("192.168.122.12")},_[16])
+2375:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(37149),_sin_addr=inet_addr("192.168.122.12")},_[16]) 2375:close(3)
+2375:close(3) 2375:brk(0)
+2375:brk(0) 2375:brk(0xac8000)
+2375:brk(0xac8000) 2375:time(NULL)
+2375:time(NULL) 2375:getpid()
+2375:getpid() 2375:getppid()
+2375:getppid() 2375:times({tms_utime=0,_tms_stime=2,_tms_cutime=0,_tms_cstime=0})
+2375:times({tms_utime=0,_tms_stime=2,_tms_cutime=0,_tms_cstime=0})

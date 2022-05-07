@@ -1,0 +1,10 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:56 2022
+# 
+2299:execve("./1878ead3ca3ca3f73f1c1ceb9b107fec",_["./1878ead3ca3ca3f73f1c1ceb9b107f"...],_[/*_13_vars_*/]) 2299:ioctl(0,_TIOCNXCL,_0x7fba38a8)
+2299:ioctl(0,_TIOCNXCL,_0x7fba38a8) 2299:ioctl(1,_TIOCNXCL,_0x7fba38a8)
+2299:ioctl(1,_TIOCNXCL,_0x7fba38a8) 2299:write(2,_"Check_NTFS_volume_for_error\n",_28)
+2299:write(2,_"Check_NTFS_volume_for_error\n",_28) 2299:write(2,_"Usage_chkntfs_device_[-f]\n__-f__"...,_373)
+2299:write(2,_"Usage_chkntfs_device_[-f]\n__-f__"...,_373) 2299:write(2,_"E.g._chkntfs_/dev/hdb1\n",_23)
+2299:write(2,_"E.g._chkntfs_/dev/hdb1\n",_23) 2299:exit(-2)
+2299:exit(-2)

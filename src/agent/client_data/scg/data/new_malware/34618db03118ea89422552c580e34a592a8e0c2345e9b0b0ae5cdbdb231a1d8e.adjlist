@@ -1,0 +1,20 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2309:execve("./34618db03118ea89422552c580e34a592a8e0c2345e9b0b0ae5cdbdb231a1d8e",_["./34618db03118ea89422552c580e34a"...],_[/*_13_vars_*/]) 2309:write(1,_"[silexbot]_i_am_only_here_to_pre"...,_264)
+2309:write(1,_"[silexbot]_i_am_only_here_to_pre"...,_264) 2309:rt_sigaction(SIGPIPE,_{0x10000000,_[],_SA_NOCLDSTOP},_{SIG_DFL,_[],_SA_NOCLDSTOP},_16)
+2309:rt_sigaction(SIGPIPE,_{0x10000000,_[],_SA_NOCLDSTOP},_{SIG_DFL,_[],_SA_NOCLDSTOP},_16) 2309:close(-1)
+2309:close(-1) 2309:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP)
+2309:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP) 2309:fcntl(3,_F_GETFL) 2309:close(3)
+2309:fcntl(3,_F_GETFL) 2309:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK) 2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[0],_[4]) 2309:fcntl(3,_F_SETFL,_O_RDWR)
+2309:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK) 2309:connect(3,_{sa_family=AF_INET,_sin_port=htons(245),_sin_addr=inet_addr("185.162.235.56")},_16)
+2309:connect(3,_{sa_family=AF_INET,_sin_port=htons(245),_sin_addr=inet_addr("185.162.235.56")},_16) 2309:_newselect(4,_NULL,_[3],_NULL,_{30,_0})
+2309:_newselect(4,_NULL,_[3],_NULL,_{30,_0}) 2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[0],_[4]) 2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[146],_[4])
+2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[0],_[4])
+2309:fcntl(3,_F_SETFL,_O_RDWR) 2309:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[],_16) 2309:close(3)
+2309:rt_sigprocmask(SIG_BLOCK,_[CHLD],_[],_16) 2309:rt_sigaction(SIGCHLD,_NULL,_{SIG_DFL,_[],_0},_16)
+2309:rt_sigaction(SIGCHLD,_NULL,_{SIG_DFL,_[],_0},_16) 2309:rt_sigprocmask(SIG_SETMASK,_[],_NULL,_16)
+2309:rt_sigprocmask(SIG_SETMASK,_[],_NULL,_16) 2309:nanosleep({2,_0},_0x7fe54df0)
+2309:nanosleep({2,_0},_0x7fe54df0) 2309:close(3)
+2309:close(3) 2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[146],_[4])
+2309:getsockopt(3,_SOL_SOCKET,_SO_ERROR,_[146],_[4])

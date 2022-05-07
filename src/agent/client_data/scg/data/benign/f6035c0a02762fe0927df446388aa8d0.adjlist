@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:48 2022
+# 
+2325:execve("./f6035c0a02762fe0927df446388aa8d0",_["./f6035c0a02762fe0927df446388aa8"...],_[/*_13_vars_*/]) 2325:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2325:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2325:stat("/etc/ld-uClibc.so.cache",_0x7fd4fb50)
+2325:stat("/etc/ld-uClibc.so.cache",_0x7fd4fb50) 2325:open("/lib/libusb-1.0.so.0",_O_RDONLY)
+2325:open("/lib/libusb-1.0.so.0",_O_RDONLY) 2325:open("/lib/libusb-1.0.so.0",_O_RDONLY) 2325:open("/usr/lib/libusb-1.0.so.0",_O_RDONLY)
+2325:open("/usr/lib/libusb-1.0.so.0",_O_RDONLY) 2325:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2325:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2325:write(2,_"",_0)
+2325:write(2,_"",_0) 2325:write(2,_"./f6035c0a02762fe0927df446388aa8"...,_34)
+2325:write(2,_"./f6035c0a02762fe0927df446388aa8"...,_34) 2325:write(2,_":_can't_load_library_'",_22)
+2325:write(2,_":_can't_load_library_'",_22) 2325:write(2,_"libusb-1.0.so.0",_15)
+2325:write(2,_"libusb-1.0.so.0",_15) 2325:write(2,_"'\n",_2)
+2325:write(2,_"'\n",_2) 2325:munmap(0x77216000,_4096)
+2325:munmap(0x77216000,_4096) 2325:exit(16)
+2325:exit(16)

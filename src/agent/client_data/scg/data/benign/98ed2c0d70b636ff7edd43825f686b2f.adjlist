@@ -1,0 +1,13 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:50 2022
+# 
+2295:execve("./98ed2c0d70b636ff7edd43825f686b2f",_["./98ed2c0d70b636ff7edd43825f686b"...],_[/*_13_vars_*/]) 2295:brk(0)
+2295:brk(0) 2295:brk(0x588478)
+2295:brk(0x588478) 2295:set_thread_area(0x58f460)
+2295:set_thread_area(0x58f460) 2295:ioctl(0,_TIOCNXCL,_0x7fea50f0)
+2295:ioctl(0,_TIOCNXCL,_0x7fea50f0) 2295:ioctl(1,_TIOCNXCL,_0x7fea50f0)
+2295:ioctl(1,_TIOCNXCL,_0x7fea50f0) 2295:write(2,_"usage:_",_7)
+2295:write(2,_"usage:_",_7) 2295:write(2,_"./98ed2c0d70b636ff7edd43825f686b"...,_34)
+2295:write(2,_"./98ed2c0d70b636ff7edd43825f686b"...,_34) 2295:write(2,_"_[-eb|-ea|-cb|-u]_[/dev/mtd<X>]\n",_32)
+2295:write(2,_"_[-eb|-ea|-cb|-u]_[/dev/mtd<X>]\n",_32) 2295:exit_group(1)
+2295:exit_group(1)

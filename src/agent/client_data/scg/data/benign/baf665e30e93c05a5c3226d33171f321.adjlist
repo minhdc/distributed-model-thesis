@@ -1,0 +1,17 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:40 2022
+# 
+2384:execve("./baf665e30e93c05a5c3226d33171f321",_["./baf665e30e93c05a5c3226d33171f3"...],_[/*_13_vars_*/]) 2384:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2384:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2384:stat("/etc/ld-uClibc.so.cache",_0xbe8da980)
+2384:stat("/etc/ld-uClibc.so.cache",_0xbe8da980) 2384:open("/home/sam/asuswrt/release/src-rt-6.x.4708/router/openssl/libssl.so.1.0.0",_O_RDONLY)
+2384:open("/home/sam/asuswrt/release/src-rt-6.x.4708/router/openssl/libssl.so.1.0.0",_O_RDONLY) 2384:open("/lib/libssl.so.1.0.0",_O_RDONLY)
+2384:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2384:open("/lib/libssl.so.1.0.0",_O_RDONLY) 2384:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY)
+2384:open("/usr/lib/libssl.so.1.0.0",_O_RDONLY) 2384:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2384:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2384:write(2,_"",_0)
+2384:write(2,_"",_0) 2384:write(2,_"./baf665e30e93c05a5c3226d33171f3"...,_34)
+2384:write(2,_"./baf665e30e93c05a5c3226d33171f3"...,_34) 2384:write(2,_":_can't_load_library_'",_22)
+2384:write(2,_":_can't_load_library_'",_22) 2384:write(2,_"libssl.so.1.0.0",_15)
+2384:write(2,_"libssl.so.1.0.0",_15) 2384:write(2,_"'\n",_2)
+2384:write(2,_"'\n",_2) 2384:munmap(0xb6ff0000,_4096)
+2384:munmap(0xb6ff0000,_4096) 2384:exit(16)
+2384:exit(16)

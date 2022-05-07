@@ -1,0 +1,8 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:42 2022
+# 
+2303:execve("./01b5254ff63474a2bec794e3cb7db0fd",_["./01b5254ff63474a2bec794e3cb7db0"...],_[/*_13_vars_*/]) 2303:ioctl(0,_TIOCNXCL,_0x7f8c0b08)
+2303:ioctl(0,_TIOCNXCL,_0x7f8c0b08) 2303:ioctl(1,_TIOCNXCL,_0x7f8c0b08)
+2303:ioctl(1,_TIOCNXCL,_0x7f8c0b08) 2303:write(1,_"Create_an_NTFS_volume_on_a_user_"...,_2040)
+2303:write(1,_"Create_an_NTFS_volume_on_a_user_"...,_2040) 2303:exit(-1)
+2303:exit(-1)

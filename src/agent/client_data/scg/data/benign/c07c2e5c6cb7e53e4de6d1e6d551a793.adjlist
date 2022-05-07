@@ -1,0 +1,6 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:48 2022
+# 
+2298:execve("./c07c2e5c6cb7e53e4de6d1e6d551a793",_["./c07c2e5c6cb7e53e4de6d1e6d551a7"...],_[/*_13_vars_*/]) 2298:ioctl(0,_TIOCNXCL,_0x7fef1be8)
+2298:ioctl(0,_TIOCNXCL,_0x7fef1be8) 2298:ioctl(1,_TIOCNXCL,_0x7fef1be8)
+2298:ioctl(1,_TIOCNXCL,_0x7fef1be8)

@@ -1,0 +1,15 @@
+#SCG.py
+# GMT Sun Jan 23 11:53:13 2022
+# 
+2482:execve("./c4b2602e018aef08b84cfde8fd3ec72340feb8e0d7ae88dc239c42e45cb5dc66",_["./c4b2602e018aef08b84cfde8fd3ec7"...],_[/*_13_vars_*/]) 2482:unlink("./c4b2602e018aef08b84cfde8fd3ec72340feb8e0d7ae88dc239c42e45cb5dc66")
+2482:unlink("./c4b2602e018aef08b84cfde8fd3ec72340feb8e0d7ae88dc239c42e45cb5dc66") 2482:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8)
+2482:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_8) 2482:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80520e3},_{SIG_DFL,_[],_0},_8)
+2482:rt_sigaction(SIGCHLD,_{SIG_IGN,_[CHLD],_SA_RESTORER|SA_RESTART,_0x80520e3},_{SIG_DFL,_[],_0},_8) 2482:rt_sigaction(SIGTRAP,_{0x804c370,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80520e3},_{SIG_DFL,_[],_0},_8)
+2482:rt_sigaction(SIGTRAP,_{0x804c370,_[TRAP],_SA_RESTORER|SA_RESTART,_0x80520e3},_{SIG_DFL,_[],_0},_8) 2482:open("/dev/watchdog",_O_RDWR)
+2482:open("/dev/watchdog",_O_RDWR) 2482:open("/dev/misc/watchdog",_O_RDWR)
+2482:open("/dev/misc/watchdog",_O_RDWR) 2482:chdir("/")
+2482:chdir("/") 2482:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2482:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2482:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2482:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2482:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(54301),_sin_addr=inet_addr("192.168.122.102")},_[16])
+2482:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(54301),_sin_addr=inet_addr("192.168.122.102")},_[16]) 2482:close(3)
+2482:close(3)

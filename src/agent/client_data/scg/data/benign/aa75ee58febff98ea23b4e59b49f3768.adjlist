@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:57 2022
+# 
+2398:execve("./aa75ee58febff98ea23b4e59b49f3768",_["./aa75ee58febff98ea23b4e59b49f37"...],_[/*_13_vars_*/]) 2398:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2398:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2398:stat("/etc/ld-uClibc.so.cache",_0xbedbe980)
+2398:stat("/etc/ld-uClibc.so.cache",_0xbedbe980) 2398:open("/lib/libpush_log.so",_O_RDONLY)
+2398:open("/lib/libpush_log.so",_O_RDONLY) 2398:open("/lib/libpush_log.so",_O_RDONLY) 2398:open("/usr/lib/libpush_log.so",_O_RDONLY)
+2398:open("/usr/lib/libpush_log.so",_O_RDONLY) 2398:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2398:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2398:write(2,_"",_0)
+2398:write(2,_"",_0) 2398:write(2,_"./aa75ee58febff98ea23b4e59b49f37"...,_34)
+2398:write(2,_"./aa75ee58febff98ea23b4e59b49f37"...,_34) 2398:write(2,_":_can't_load_library_'",_22)
+2398:write(2,_":_can't_load_library_'",_22) 2398:write(2,_"libpush_log.so",_14)
+2398:write(2,_"libpush_log.so",_14) 2398:write(2,_"'\n",_2)
+2398:write(2,_"'\n",_2) 2398:munmap(0xb6f67000,_4096)
+2398:munmap(0xb6f67000,_4096) 2398:exit(16)
+2398:exit(16)

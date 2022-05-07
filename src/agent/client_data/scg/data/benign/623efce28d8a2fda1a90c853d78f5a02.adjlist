@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:54 2022
+# 
+2327:execve("./623efce28d8a2fda1a90c853d78f5a02",_["./623efce28d8a2fda1a90c853d78f5a"...],_[/*_13_vars_*/]) 2327:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2327:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2327:stat("/etc/ld-uClibc.so.cache",_0x7ff96370)
+2327:stat("/etc/ld-uClibc.so.cache",_0x7ff96370) 2327:open("/lib/libeap.so.0",_O_RDONLY)
+2327:open("/lib/libeap.so.0",_O_RDONLY) 2327:open("/lib/libeap.so.0",_O_RDONLY) 2327:open("/usr/lib/libeap.so.0",_O_RDONLY)
+2327:open("/usr/lib/libeap.so.0",_O_RDONLY) 2327:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2327:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2327:write(2,_"",_0)
+2327:write(2,_"",_0) 2327:write(2,_"./623efce28d8a2fda1a90c853d78f5a"...,_34)
+2327:write(2,_"./623efce28d8a2fda1a90c853d78f5a"...,_34) 2327:write(2,_":_can't_load_library_'",_22)
+2327:write(2,_":_can't_load_library_'",_22) 2327:write(2,_"libeap.so.0",_11)
+2327:write(2,_"libeap.so.0",_11) 2327:write(2,_"'\n",_2)
+2327:write(2,_"'\n",_2) 2327:munmap(0x77776000,_4096)
+2327:munmap(0x77776000,_4096) 2327:exit(16)
+2327:exit(16)

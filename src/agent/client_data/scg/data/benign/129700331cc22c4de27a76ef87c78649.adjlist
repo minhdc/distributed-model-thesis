@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:49 2022
+# 
+2395:execve("./129700331cc22c4de27a76ef87c78649",_["./129700331cc22c4de27a76ef87c786"...],_[/*_13_vars_*/]) 2395:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2395:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2395:stat("/etc/ld-uClibc.so.cache",_0xbed22980)
+2395:stat("/etc/ld-uClibc.so.cache",_0xbed22980) 2395:open("/lib/libeap.so.0",_O_RDONLY)
+2395:open("/lib/libeap.so.0",_O_RDONLY) 2395:open("/lib/libeap.so.0",_O_RDONLY) 2395:open("/usr/lib/libeap.so.0",_O_RDONLY)
+2395:open("/usr/lib/libeap.so.0",_O_RDONLY) 2395:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2395:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2395:write(2,_"",_0)
+2395:write(2,_"",_0) 2395:write(2,_"./129700331cc22c4de27a76ef87c786"...,_34)
+2395:write(2,_"./129700331cc22c4de27a76ef87c786"...,_34) 2395:write(2,_":_can't_load_library_'",_22)
+2395:write(2,_":_can't_load_library_'",_22) 2395:write(2,_"libeap.so.0",_11)
+2395:write(2,_"libeap.so.0",_11) 2395:write(2,_"'\n",_2)
+2395:write(2,_"'\n",_2) 2395:munmap(0xb6fa9000,_4096)
+2395:munmap(0xb6fa9000,_4096) 2395:exit(16)
+2395:exit(16)

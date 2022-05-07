@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:50 2022
+# 
+2387:execve("./bc511fc45c7b322ce933cb42e7447354",_["./bc511fc45c7b322ce933cb42e74473"...],_[/*_13_vars_*/]) 2387:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2387:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2387:stat("/etc/ld-uClibc.so.cache",_0xbeb93980)
+2387:stat("/etc/ld-uClibc.so.cache",_0xbeb93980) 2387:open("/lib/libcrypto.so.1.0.0",_O_RDONLY)
+2387:open("/lib/libcrypto.so.1.0.0",_O_RDONLY) 2387:open("/lib/libcrypto.so.1.0.0",_O_RDONLY) 2387:open("/usr/lib/libcrypto.so.1.0.0",_O_RDONLY)
+2387:open("/usr/lib/libcrypto.so.1.0.0",_O_RDONLY) 2387:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2387:mmap2(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2387:write(2,_"",_0)
+2387:write(2,_"",_0) 2387:write(2,_"./bc511fc45c7b322ce933cb42e74473"...,_34)
+2387:write(2,_"./bc511fc45c7b322ce933cb42e74473"...,_34) 2387:write(2,_":_can't_load_library_'",_22)
+2387:write(2,_":_can't_load_library_'",_22) 2387:write(2,_"libcrypto.so.1.0.0",_18)
+2387:write(2,_"libcrypto.so.1.0.0",_18) 2387:write(2,_"'\n",_2)
+2387:write(2,_"'\n",_2) 2387:munmap(0xb6fcd000,_4096)
+2387:munmap(0xb6fcd000,_4096) 2387:exit(16)
+2387:exit(16)

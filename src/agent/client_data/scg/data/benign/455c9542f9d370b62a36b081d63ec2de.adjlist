@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:52 2022
+# 
+2685:execve("./455c9542f9d370b62a36b081d63ec2de",_["./455c9542f9d370b62a36b081d63ec2"...],_[/*_13_vars_*/]) 2685:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2685:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2685:stat("/etc/ld-uClibc.so.cache",_0x7fb26a90)
+2685:stat("/etc/ld-uClibc.so.cache",_0x7fb26a90) 2685:open("/lib/libapmib.so",_O_RDONLY)
+2685:open("/lib/libapmib.so",_O_RDONLY) 2685:open("/lib/libapmib.so",_O_RDONLY) 2685:open("/usr/lib/libapmib.so",_O_RDONLY)
+2685:open("/usr/lib/libapmib.so",_O_RDONLY) 2685:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2685:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2685:write(2,_"",_0)
+2685:write(2,_"",_0) 2685:write(2,_"./455c9542f9d370b62a36b081d63ec2"...,_34)
+2685:write(2,_"./455c9542f9d370b62a36b081d63ec2"...,_34) 2685:write(2,_":_can't_load_library_'",_22)
+2685:write(2,_":_can't_load_library_'",_22) 2685:write(2,_"libapmib.so",_11)
+2685:write(2,_"libapmib.so",_11) 2685:write(2,_"'\n",_2)
+2685:write(2,_"'\n",_2) 2685:munmap(0x77ca1000,_4096)
+2685:munmap(0x77ca1000,_4096) 2685:exit(16)
+2685:exit(16)

@@ -1,0 +1,23 @@
+#SCG.py
+# GMT Sun Jan 23 12:04:04 2022
+# 
+2294:execve("./eddd2e10c862e87e53299ed4c91a6aecbf2b681f743fc5a6781f2b34b7d97ebd",_["./eddd2e10c862e87e53299ed4c91a6a"...],_[/*_13_vars_*/]) 2294:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_16)
+2294:rt_sigprocmask(SIG_BLOCK,_[INT],_NULL,_16) 2294:rt_sigaction(SIGCHLD,_{0x10000000,_[],_SA_NOCLDSTOP},_{SIG_DFL,_[],_0},_16)
+2294:rt_sigaction(SIGCHLD,_{0x10000000,_[],_SA_NOCLDSTOP},_{SIG_DFL,_[],_0},_16) 2294:rt_sigaction(SIGTRAP,_{0x10000000,_[],_0x407060_/*_SA_???_*/},_{SIG_DFL,_[],_0},_16)
+2294:rt_sigaction(SIGTRAP,_{0x10000000,_[],_0x407060_/*_SA_???_*/},_{SIG_DFL,_[],_0},_16) 2294:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP)
+2294:socket(PF_INET,_SOCK_DGRAM,_IPPROTO_IP) 2294:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16)
+2294:connect(3,_{sa_family=AF_INET,_sin_port=htons(53),_sin_addr=inet_addr("8.8.8.8")},_16) 2294:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(34669),_sin_addr=inet_addr("192.168.122.14")},_[16])
+2294:getsockname(3,_{sa_family=AF_INET,_sin_port=htons(34669),_sin_addr=inet_addr("192.168.122.14")},_[16]) 2294:close(3)
+2294:close(3) 2294:brk(0)
+2294:brk(0) 2294:brk(0x99f000)
+2294:brk(0x99f000) 2294:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP)
+2294:socket(PF_INET,_SOCK_STREAM,_IPPROTO_IP) 2294:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4)
+2294:setsockopt(3,_SOL_SOCKET,_SO_REUSEADDR,_[1],_4) 2294:fcntl(3,_F_GETFL)
+2294:fcntl(3,_F_GETFL) 2294:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK)
+2294:fcntl(3,_F_SETFL,_O_RDWR|O_NONBLOCK) 2294:bind(3,_{sa_family=AF_INET,_sin_port=htons(38273),_sin_addr=inet_addr("127.0.0.1")},_16)
+2294:bind(3,_{sa_family=AF_INET,_sin_port=htons(38273),_sin_addr=inet_addr("127.0.0.1")},_16) 2294:listen(3,_1)
+2294:listen(3,_1) 2294:time(NULL)
+2294:time(NULL) 2294:getpid()
+2294:getpid() 2294:getppid()
+2294:getppid() 2294:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})
+2294:times({tms_utime=0,_tms_stime=0,_tms_cutime=0,_tms_cstime=0})

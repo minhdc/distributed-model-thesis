@@ -1,0 +1,16 @@
+#SCG.py
+# GMT Sun Jan 23 11:49:55 2022
+# 
+2313:execve("./89a59df8d23b3b91c9f96cb01ef42b9c",_["./89a59df8d23b3b91c9f96cb01ef42b"...],_[/*_13_vars_*/]) 2313:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0)
+2313:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS|0x4000000,_-1,_0) 2313:stat("/etc/ld-uClibc.so.cache",_0x7f88dc70)
+2313:stat("/etc/ld-uClibc.so.cache",_0x7f88dc70) 2313:open("/lib/libumsg.so",_O_RDONLY)
+2313:open("/lib/libumsg.so",_O_RDONLY) 2313:open("/lib/libumsg.so",_O_RDONLY) 2313:open("/usr/lib/libumsg.so",_O_RDONLY)
+2313:open("/usr/lib/libumsg.so",_O_RDONLY) 2313:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0)
+2313:old_mmap(NULL,_4096,_PROT_READ|PROT_WRITE,_MAP_PRIVATE|MAP_ANONYMOUS,_-1,_0) 2313:write(2,_"",_0)
+2313:write(2,_"",_0) 2313:write(2,_"./89a59df8d23b3b91c9f96cb01ef42b"...,_34)
+2313:write(2,_"./89a59df8d23b3b91c9f96cb01ef42b"...,_34) 2313:write(2,_":_can't_load_library_'",_22)
+2313:write(2,_":_can't_load_library_'",_22) 2313:write(2,_"libumsg.so",_10)
+2313:write(2,_"libumsg.so",_10) 2313:write(2,_"'\n",_2)
+2313:write(2,_"'\n",_2) 2313:munmap(0x77c11000,_4096)
+2313:munmap(0x77c11000,_4096) 2313:exit(16)
+2313:exit(16)
