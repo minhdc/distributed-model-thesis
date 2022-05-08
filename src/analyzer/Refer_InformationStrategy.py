@@ -14,8 +14,11 @@ import json
 import platform
 import logging
 import coloredlogs
+import os
+from dotenv import load_dotenv
 
 coloredlogs.install()
+load_dotenv()
 
 # CONST
 MEGABYTES = 1024.0 * 1024.0
@@ -23,11 +26,11 @@ MEGAHERTZ = 1024
 # refactor as _center_server
 # KAFKA_SERVER = getenv("KAFKA_BROKER_CENTER_SERVER")
 # KAFKA_PORT = getenv("KAFKA_PORT_CENTER_SERVER")  # refactor as _center_server
-# TOPIC = getenv('TOPIC_LOCATION_STRATEGY_CENTER_SERVER')
-KAFKA_BROKER_CENTER_SERVER    = '192.168.1.60'
-KAFKA_PORT_CENTER_SERVER      = '9092'
-KAFKA_SERVER = '192.168.1.60'
-KAFKA_PORT = '9092'
+# TOPIC = getenv('TOPIC_LOCATION_STRATEGY_CENTER_SER VER')
+KAFKA_BROKER_CENTER_SERVER    = os.environ.get("KAFKA_BROKER_CENTER_SERVER")
+KAFKA_PORT_CENTER_SERVER      = os.environ.get("KAFKA_PORT_CENTER_SERVER")
+KAFKA_SERVER = os.environ.get("KAFKA_SERVER")
+KAFKA_PORT = os.environ.get("KAFKA_PORT")
 TOPIC = 'information-strategy-center-server'
 TOPIC_INFORMATION_STRATEGY_CENTER_SERVER = 'information-strategy-center-server'
 # if failed using following, need some automation later
@@ -169,6 +172,7 @@ class InformationStrategy:
 
 
 def main():
+    print(os.environ.get("KAFKA_BROKER_CENTER_SERVER"))
     informationStrategy = InformationStrategy(src_server=gethostname())
     system_metrics = {}
     while True:
